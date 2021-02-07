@@ -1,0 +1,18 @@
+[submodule "cmsc420-workspace"]
+	path = cmsc420-workspace
+	url = https://github.com/tvarano/cmsc420-workspace.git
+[submodule "cmsc451-workspace"]
+	path = cmsc451-workspace
+	url = https://github.com/tvarano/cmsc451-workspace.git
+[submodule "cmsc320-workspace"]
+	path = cmsc320-workspace
+	url = https://github.com/tvarano/cmsc320-workspace.git
+[submodule "cmsc132-workspace"]
+	path = cmsc132-workspace
+	url = https://github.com/tvarano/cmsc132-workspace.git
+[submodule "cmsc216-workspace"]
+	path = cmsc216-workspace
+	url = https://github.com/tvarano/cmsc216-workspace.git
+[submodule "cmsc330-workspace"]
+	path = cmsc330-workspace
+	url = https://github.com/tvarano/cmsc330-workspace.git
