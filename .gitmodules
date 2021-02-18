@@ -16,3 +16,6 @@
 [submodule "cmsc330-workspace"]
 	path = cmsc330-workspace
 	url = https://github.com/tvarano/cmsc330-workspace.git
+[submodule "cmsc389O-workspace"]
+	path = cmsc389O-workspace
+	url = https://github.com/tvarano/cmsc389O-workspace.git
