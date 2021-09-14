@@ -19,3 +19,6 @@
 [submodule "cmsc389O-workspace"]
 	path = cmsc389O-workspace
 	url = https://github.com/tvarano/cmsc389O-workspace.git
+[submodule "cmsc422-workspace"]
+	path = cmsc422-workspace
+	url = https://github.com/tvarano/cmsc-workspace.git
