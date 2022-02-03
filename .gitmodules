@@ -25,3 +25,12 @@
 [submodule "downpou-rs"]
 	path = downpou-rs
 	url = https://github.com/tvarano/downpou-rs.git
+[submodule "cmsc417-workspace"]
+	path = cmsc417-workspace
+	url = https://github.com/tvarano/cmsc417-workspace.git
+[submodule "cmsc433-workspace"]
+	path = cmsc433-workspace
+	url = https://github.com/tvarano/cmsc433-workspace.git
+[submodule "cmsc426-workspace"]
+	path = cmsc426-workspace
+	url = https://github.com/tvarano/cmsc426-workspace.git
